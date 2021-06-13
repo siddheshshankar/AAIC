@@ -1,0 +1,11 @@
+lightgbm==3.2.1
+pandas==1.2.3
+numpy==1.19.5
+streamlit==0.81.0
+tensorboard==2.5.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorflow==2.5.0
+tensorflow-estimator==2.5.0
+pickleshare==0.7.5
+Werkzeug==1.0.1
